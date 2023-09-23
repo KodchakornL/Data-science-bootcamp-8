@@ -16,3 +16,5 @@ I learn a lot of stuff related to data science skill. this bootcamp has 10 sprin
 - Python Programming
 - Essential Python Data science
 - Dashboard
+
+You can find me on LinkedIn https://www.linkedin.com/in/kodchakorn-lernsuksarn-bb537b215/
