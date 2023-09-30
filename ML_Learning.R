@@ -67,6 +67,8 @@ lm_model$finalModel   # extract equation model
 varImp(lm_model)      # variables importance
 
 
+## K-Nearest Neighbors
+
 
 
 
