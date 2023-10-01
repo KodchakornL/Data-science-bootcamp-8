@@ -62,12 +62,8 @@ p <- predict(lm_model, newdata = test_df)
 (rmse <- sqrt(mean((p - test_df$mpg)**2)))
 #rmse
 
-
 lm_model$finalModel   # extract equation model
 varImp(lm_model)      # variables importance
-
-
-## K-Nearest Neighbors
 
 
 
